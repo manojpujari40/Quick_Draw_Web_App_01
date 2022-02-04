@@ -1,0 +1,9 @@
+body{
+    background-color:lightgreen;
+}
+#score{
+    float:left;
+}
+#timer{
+    float:right;
+}
